@@ -1,0 +1,17 @@
+*** COMANDOS:
+
+git clone https://... = clonar repositório.
+
+git status = estado atual (report) do Git que estou trabalhando.
+
+git log = histórico de alterações.
+
+
+*** 3 PASSOS MÁGICOS DO GITHUB:
+
+1º git add . = subir (sincronizar) todos os arquivos que eu alterei.
+	git add teste.txt, teste2.txt...
+
+2º git commit -m 'descricao da alteracao' = confirmando e descrevendo as alterações.
+
+3º git push = aplica e sincroniza, DE FATO, TODAS as alterações que eu realizei.
